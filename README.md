@@ -44,5 +44,11 @@ To simulate a Full wave Bridge rectifier circuit and compare the outputs with an
 37.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
 
 ## OUTPUT:
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-08 at 10 15 07 AM" src="https://github.com/user-attachments/assets/9861de74-abcd-4811-beb3-7536cffa7a7c" />
+<img width="1288" height="1599" alt="WhatsApp Image 2026-09-08 at 10 15 27 AM" src="https://github.com/user-attachments/assets/78afbb6a-eb71-4b29-adb9-7ca616e031b4" />
+
+
 
 ## RESULT:
+<img width="1092" height="1600" alt="WhatsApp Image 2026-09-08 at 10 15 45 AM" src="https://github.com/user-attachments/assets/7e30463a-bbe3-4962-a51c-4e277c99f002" />
+
